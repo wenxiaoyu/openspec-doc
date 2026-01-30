@@ -7,7 +7,7 @@
 完整的技术文档位于 `docs/implementation/` 目录：
 
 ```
-docs/implementation/
+openspec-doc/implementation/
 ├── README.md                          # 文档索引和导航
 ├── 00-overview.md                     # 概览和前置知识
 ├── 01-architecture.md                 # 架构总览

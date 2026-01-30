@@ -3,9 +3,8 @@
 文档已成功复制到此目录。
 
 ## 📁 文档结构
-
 `
-E:/openspec-doc/
+openspec-doc/
 ├── implementation-summary.md          # 实现总结和速查
 └── implementation/                    # 详细实现文档
     ├── README.md                      # 文档索引

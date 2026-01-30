@@ -3,7 +3,7 @@
 文档已成功复制到此目录。
 
 ## 📁 文档结构
-`
+```
 openspec-doc/
 ├── implementation-summary.md          # 实现总结和速查
 └── implementation/                    # 详细实现文档
@@ -17,7 +17,7 @@ openspec-doc/
     ├── 03-schema-system.md            # Schema 系统
     ├── 04-state-management.md         # 状态管理
     └── 05-instruction-generation.md   # 指令生成系统
-`
+```
 
 ## 🚀 快速开始
 
